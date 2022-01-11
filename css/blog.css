@@ -1,0 +1,43 @@
+.foto-blog {
+  border-radius: 50px;
+
+  filter: grayscale(100%);
+}
+
+.blogs-z1 {
+  padding: 20px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background-color: #ffff;
+}
+
+.blogs-z1 h2 {
+  font-weight: 600;
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.blogueiro {
+  display: flex;
+  margin: 40px 0;
+  padding: 0 5px 20px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  justify-content: space-between;
+}
+
+.blogueiro span {
+  font-size: 14px;
+  font-weight: 600;
+  display: inline-block;
+}
+
+.blogueiro h3 {
+  color: #c4170c;
+  font-size: 15px;
+  font-weight: 600;
+  padding-top: 10px;
+  line-height: 1.25;
+}
+
+.blogueiro-texto {
+  padding-bottom: 20px;
+}

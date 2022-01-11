@@ -1,0 +1,30 @@
+footer {
+  background: #c4170c;
+  width: 100%;
+}
+.rodape {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: auto;
+  max-width: 1100px;
+}
+.rodape__imagem {
+  display: flex;
+  height: 40px;
+  padding-top: 10px;
+  width: 40px;
+}
+.rodape__subtitulo {
+  color: #fff;
+  font-size: 13px;
+  padding: 25px 0 0 15px;
+}
+.rodape__copyright {
+  color: #fff;
+  font-size: 13px;
+  margin: 15px auto;
+}
+.box-logo {
+  display: flex;
+}

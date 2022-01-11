@@ -1,0 +1,73 @@
+body {
+  background-color: #f9f9f9;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  background-color: #f9f9f9;
+  position: fixed;
+  top: 0%;
+  width: 100%;
+}
+nav {
+  margin: 0 auto;
+  max-width: 1100px;
+}
+a {
+  text-decoration: none;
+}
+nav ul {
+  display: flex;
+  font-size: 18px;
+  font-weight: 700;
+  gap: 20px;
+  justify-content: start;
+  list-style: none;
+  padding: 5px 5px 12px;
+}
+.menu-z1 a {
+  border-top: 4px solid transparent;
+  color: #a80000;
+}
+.menu-z1 a:hover {
+  border-top: 4px solid #a80000;
+}
+.menu-eportes a {
+  border-top: 4px solid transparent;
+  color: #06aa48;
+}
+.menu-eportes a:hover {
+  border-top: 4px solid #06aa48;
+}
+.menu-variedades a {
+  border-top: 3px solid transparent;
+  color: #ff6700;
+}
+.menu-variedades a:hover {
+  border-top: 4px solid #ff6700;
+}
+.menu-economia a {
+  border-top: 4px solid transparent;
+  color: #005cef;
+}
+.menu-economia a:hover {
+  border-top: 4px solid #005cef;
+}
+.menu-internacional a {
+  border-top: 4px solid transparent;
+  color: #fb0234;
+}
+.menu-internacional a:hover {
+  border-top: 4px solid #fb0234;
+}
+.cabecalho {
+  background: #c4170c;
+  box-sizing: border-box;
+  text-align: center;
+  width: 100%;
+}
+.z1-logo {
+  height: 45px;
+  padding: 5px;
+  width: 45px;
+}

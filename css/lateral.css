@@ -1,0 +1,29 @@
+.lateral {
+  display: flex;
+  flex-flow: column wrap;
+  gap: 20px;
+}
+
+.noticias-interesses h3 {
+  color: #c4170c;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.noticias-interesses {
+  padding: 30px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background-color: #ffff;
+}
+
+.interesses {
+  display: flex;
+  margin: 40px 5px;
+  padding: 0 0 30px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.noticias-interesses h2 {
+  text-align: start;
+  font-weight: 600;
+}
